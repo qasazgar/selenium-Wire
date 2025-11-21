@@ -25,6 +25,7 @@ def run_test():
             print("Response Headers:", req.response.headers)
             print("=" * 50)
 
+
     driver.quit()
 
 if __name__ == "__main__":
